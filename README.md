@@ -19,7 +19,7 @@ thank`you`<br>
 >>>>平衡二叉树
 >>>>>满二叉树
 
-![]
+[![a.png]
 (https://github.com/L-sang/Webku/edit/master/img/a.png
 "百度logo")
     
