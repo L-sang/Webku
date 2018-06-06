@@ -3,5 +3,4 @@
 直接回车不能换行,<br>
 要使用\<br><br>
 thank`you`<br>
-[小型酒店系统]
-(https://github.com/L-sang/Webku/blob/master/README.zh-CN.md)
+[README.zh-CN.md](https://github.com/L-sang/Webku/blob/master/README.zh-CN.md)
