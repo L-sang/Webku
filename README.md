@@ -18,4 +18,7 @@ thank`you`<br>
 >>>二叉树
 >>>>平衡二叉树
 >>>>>满二叉树
+
+![baidu]
+(https://www.baidu.com/img/bdlogo.gif)
     
