@@ -22,6 +22,7 @@ thank`you`<br>
 ![](https://github.com/L-sang/Webku/blob/master/img/a.png
 "点击一下")
 
-[![baidu]](http://baidu.com)
-[baidu]:http://www.baidu.com/img/bdlogo.gif "logo"
+```Java
+public static void main(String[] args){}//java
+```
     
