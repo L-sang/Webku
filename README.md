@@ -20,6 +20,6 @@ thank`you`<br>
 >>>>>满二叉树
 
 ![ALT text]
-(https://github.com/L-sang/Webku/edit/master/img/a.png
+(Webku/img/a.png
 "百度logo")
     
