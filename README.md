@@ -19,6 +19,6 @@ thank`you`<br>
 >>>>平衡二叉树
 >>>>>满二叉树
 
-![ALT text]
+![Image text]
 (https://github.com/L-sang/Webku/blob/master/img/a.png)
     
