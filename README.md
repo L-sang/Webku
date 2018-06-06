@@ -20,6 +20,6 @@ thank`you`<br>
 >>>>>满二叉树
 
 ![baidu]
-(https://www.baidu.com/img/bdlogo.gif
+(https://github.com/L-sang/Webku/edit/master/img/a.png
 "百度logo")
     
